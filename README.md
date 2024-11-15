@@ -10,6 +10,25 @@ AIFAD transforms sparse convolutions into dense features to enhance the sparse b
 Through comprehensive evaluations, we demonstrate the relevance and effectiveness of our dataset and benchmark.
 
 
+### Evaluation
+We provide the trained weight file so you can just run with that. You can also use the model you trained.
+
+```shell
+cd tools 
+bash scripts/dist_test.sh NUM_GPUS --cfg_file PATH_TO_CONFIG_FILE --ckpt PATH_TO_MODEL
+#For example,
+bash scripts/dist_test.sh 8 --cfg_file PATH_TO_CONFIG_FILE --ckpt PATH_TO_MODEL
+```
+
+
+### Training
+
+```shell
+bash scripts/dist_train.sh NUM_GPUS --cfg_file PATH_TO_CONFIG_FILE
+#For example,
+bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
+```
+
 ### Comparison between the proposed CPSDET-3D and existing mainstream 3D anomaly detection datasets.
 <p align="center"> <img src="docs/datasets.png" width="50%"> </p>
 
