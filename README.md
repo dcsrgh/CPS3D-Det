@@ -10,7 +10,6 @@ AIFAD transforms sparse convolutions into dense features to enhance the sparse b
 Through comprehensive evaluations, we demonstrate the relevance and effectiveness of our dataset and benchmark.
 
 
-
 ### Evaluation
 We provide the trained weight file so you can just run with that. You can also use the model you trained.
 
@@ -20,7 +19,6 @@ bash scripts/dist_test.sh NUM_GPUS --cfg_file PATH_TO_CONFIG_FILE --ckpt PATH_TO
 #For example,
 bash scripts/dist_test.sh 8 --cfg_file PATH_TO_CONFIG_FILE --ckpt PATH_TO_MODEL
 ```
-
 
 ### Training
 
