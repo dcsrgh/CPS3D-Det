@@ -11,7 +11,44 @@ Through comprehensive evaluations, we demonstrate the relevance and effectivenes
 
 
 ### Comparison between the proposed CPSDET-3D and existing mainstream 3D anomaly detection datasets.
-<p align="center"> <img src="docs/table1.png" width="100%"> </p>
-
-
 <p align="center"> <img src="docs/datasets.png" width="100%"> </p>
+
+
+### Illustration of the acquisition process of CPSDET-3D.
+<p align="center"> <img src="docs/equipment.png" width="100%"> </p>
+
+
+### Examples of the proposed CPSDET-3D.
+<p align="center"> <img src="docs/samples.png" width="100%"> </p>
+
+
+### Illustration of mainstream methods in the field of 3D anomaly detection.
+<p align="center"> <img src="docs/table1.PNG" width="100%"> </p>
+
+
+### Illustration of the proposed AIFAD.
+<p align="center"> <img src="docs/framework.png" width="100%"> </p>
+
+
+### Illustration of the heatmap-aware regression.
+<p align="center"> <img src="docs/heatMap.png" width="100%"> </p>
+
+
+### Performance of AIFAD and the state-of-the-art methods on CPSDET-3D validation set.
+<p align="center"> <img src="docs/table2.PNG" width="100%"> </p>
+
+
+### Effects of auxiliary voxel information flows.
+<p align="center"> <img src="docs/table3.PNG" width="100%"> </p>
+
+
+### Effects of heatmap-aware regression and anchor-based strategy.
+<p align="center"> <img src="docs/table3.PNG" width="100%"> </p>
+
+
+### Qualitative illustration of the predicted boxes of AIFAD on the CPSDET-3D validation set.
+<p align="center"> <img src="docs/resultVisual.png" width="100%"> </p>
+
+
+### Qualitative illustration of the predicted boxes of AIFAD and the state-of-the-art methods on the CPSDET-3D validation set.
+<p align="center"> <img src="docs/multiModel_1.png" width="100%"> </p>
