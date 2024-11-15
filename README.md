@@ -10,6 +10,23 @@ AIFAD transforms sparse convolutions into dense features to enhance the sparse b
 Through comprehensive evaluations, we demonstrate the relevance and effectiveness of our dataset and benchmark.
 
 
+# Data Preparation
+1. Download the CPSDET-3D dataset from [google drive](https://drive.google.com/file/d/1sHreskYwUq0e1znkPKXwkoYQDeZH96Cq/view?usp=drive_link) or [baidu drive](https://pan.baidu.com/s/14aYr6f07VkWul26PwO5THg?pwd=j55f). Data to download include:
+    * npy point clouds (training set). Note: For the sake of our data confidentiality efforts, we are currently only providing the training set, and the full data will be updated when our article is received.
+    * Training labels of object data set (full samples)
+    * ImageSets of object data set (full samples)
+
+```
+2. Split the training set into training and validation set according to the protocol [here](https://xiaozhichen.github.io/files/mv3d/imagesets.tar.gz).
+```plain
+└── DATA_DIR
+       ├── cpsdet-3d
+       |   ├── ImageSets
+       |   ├── labels
+       |   └── points
+```
+
+
 ### Evaluation
 We provide the trained weight file so you can just run with that. You can also use the model you trained.
 
