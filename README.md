@@ -10,5 +10,8 @@ AIFAD transforms sparse convolutions into dense features to enhance the sparse b
 Through comprehensive evaluations, we demonstrate the relevance and effectiveness of our dataset and benchmark.
 
 
-### Experimental results
+### Comparison between the proposed CPSDET-3D and existing mainstream 3D anomaly detection datasets.
+<p align="center"> <img src="docs/table1.png" width="100%"> </p>
+
+
 <p align="center"> <img src="docs/datasets.png" width="100%"> </p>
