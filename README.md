@@ -17,14 +17,13 @@ Through comprehensive evaluations, we demonstrate the relevance and effectivenes
     * ImageSets of object data set (full samples)
 
 ```
-2. Split the training set into training and validation set according to the protocol [here](https://xiaozhichen.github.io/files/mv3d/imagesets.tar.gz).
-```plain
-└── DATA_DIR
+2. 
+└── data
        ├── cpsdet-3d
        |   ├── ImageSets
        |   ├── labels
        |   └── points
-```
+
 
 
 ### Evaluation
