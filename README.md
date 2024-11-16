@@ -11,7 +11,7 @@ Through comprehensive evaluations, we demonstrate the relevance and effectivenes
 
 
 # Data Preparation
-1. Download the CPSDET-3D dataset from [google drive](https://drive.google.com/file/d/1sHreskYwUq0e1znkPKXwkoYQDeZH96Cq/view?usp=drive_link). Data to download include:
+1. Download the CPSDET-3D dataset from [here](https://drive.google.com/file/d/1sHreskYwUq0e1znkPKXwkoYQDeZH96Cq/view?usp=drive_link). Data to download include:
     * npy point clouds (training set). Note: For the sake of our data confidentiality efforts, we are currently only providing the training set, and the full data will be updated when our article is received.
     * Training labels of object data set (full samples)
     * ImageSets of object data set (full samples)
@@ -30,7 +30,7 @@ CPSDET-3D
 ```
 
 ### Evaluation
-We provide the trained weight file so you can just run with that. You can also use the model you trained.
+We provide the trained [weight file](https://drive.google.com/file/d/1wFaRkP69h_yMxDXsINIhDejZu3hiAj_l/view?usp=drive_link) so you can just run with that. You can also use the model you trained.
 
 ```shell
 cd tools 
