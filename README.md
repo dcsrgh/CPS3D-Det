@@ -17,15 +17,17 @@ Through comprehensive evaluations, we demonstrate the relevance and effectivenes
     * ImageSets of object data set (full samples)
 
 
-2. 
+2. Place according to the following structure.
 ```
-└── data
-       ├── cpsdet-3d
-       |   ├── ImageSets
-       |   ├── labels
-       |   └── points
+CPSDET-3D
+├── data
+│   ├── cpsdet-3d
+│   │   │── ImageSets
+│   │   │── labels
+│   │   │── points
+├── pcdet
+├── tools
 ```
-
 
 ### Evaluation
 We provide the trained weight file so you can just run with that. You can also use the model you trained.
