@@ -50,7 +50,7 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 ```
 
 ### Comparison between the proposed CPSDET-3D and existing mainstream 3D anomaly detection datasets.
-<p align="center"> <img src="docs/datasets.png" width="50%"> </p>
+<p align="center"> <img src="docs/datasets.png" width="100%"> </p>
 
 
 ### Illustration of the acquisition process of CPSDET-3D.
