@@ -32,7 +32,7 @@ CPSDET-3D
 ```
 
 ### Evaluation
-We provide the trained [weight file](https://drive.google.com/file/d/1GeF69IfJWigaUtl1F1BHK0kfbnyQnKE1/view?usp=drive_link) so you can just run with that. You can also use the model you trained.
+We provide the trained [weight file](https://drive.google.com/file/d/1GeF69IfJWigaUtl1F1BHK0kfbnyQnKE1/view?usp=drive_link), so you can just run with that. You can also use the model you trained.
 
 ```shell
 cd tools 
