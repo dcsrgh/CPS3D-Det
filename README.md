@@ -82,7 +82,7 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 
 
 ### Effects of heatmap-aware regression and anchor-based strategy.
-<p align="center"> <img src="docs/table3.PNG" width="50%"> </p>
+<p align="center"> <img src="docs/table4.PNG" width="50%"> </p>
 
 
 ### Qualitative illustration of the predicted boxes of AIFAD on the CPSDET-3D validation set.
@@ -90,4 +90,4 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 
 
 ### Qualitative illustration of the predicted boxes of AIFAD and the state-of-the-art methods on the CPSDET-3D validation set.
-<p align="center"> <img src="docs/multiModel_1.png" width="100%"> </p>
+<p align="center"> <img src="docs/multiModel.png" width="100%"> </p>
