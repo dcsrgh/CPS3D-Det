@@ -11,11 +11,11 @@ Through comprehensive evaluations, we demonstrate the relevance and effectivenes
 
 
 # Data Preparation
-1. Download the CPSDET-3D dataset from [here](https://drive.google.com/file/d/1DnOY5CsO4ySMMNtuuKK45Thej2g2O-yT/view?usp=drive_link). Note: For the sake of our data confidentiality efforts, we are currently only providing the training set, and the full data will be updated when our article is received. Data to download include:
-    * ImageSets of object data set (full samples).
-    * Training and test labels of object data set (full samples).
-    * npy point clouds (CPSDET-3D-GS training set).
-    * pcd point clouds (CPSDET-3D training set).
+1. Download the CPSDET-3D dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the sake of our data confidentiality efforts, we are currently only providing the training set, and the full data will be updated when our article is received. Data to download include:
+    * ImageSets (full samples).
+    * labels (full samples).
+    * points (training set, geometric sampling).
+    * velodyne (training set).
 
 
 2. Place according to the following structure.
