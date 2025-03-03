@@ -11,9 +11,9 @@ Through comprehensive evaluations, we demonstrate the relevance and effectivenes
 
 
 # Data Preparation
-1. Download the CPSDET-3D dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the sake of our data confidentiality efforts, we are currently only providing the training set, and the full data will be updated when our article is received. Data to download include:
-    * ImageSets (full samples).
-    * labels (full samples).
+1. Download the CPSDET-3D dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the confidentiality of our data, we currently only provide the training set, and the complete data will be updated after the paper is accepted. The data to be downloaded includes:
+    * ImageSets (Complete).
+    * labels (Complete).
     * points (training set, geometric sampling).
     * velodyne (training set).
 
