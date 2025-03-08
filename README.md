@@ -63,7 +63,7 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 
 
 ### Illustration of mainstream methods in the field of 3D anomaly detection.
-<p align="center"> <img src="docs/table1_.PNG" width="100%"> </p>
+<p align="center"> <img src="docs/table1.PNG" width="100%"> </p>
 
 
 ### Illustration of the proposed AIFAD.
