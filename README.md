@@ -92,3 +92,7 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 
 ### Qualitative illustration of the predicted boxes of AIFAD and the state-of-the-art methods on the CPS3D-Det validation set.
 <p align="center"> <img src="docs/multiModel.png" width="100%"> </p>
+
+
+### Acknowledgements
+We thank these great works and open-source repositories: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) and [CenterPoint](https://github.com/tianweiy/CenterPoint).
