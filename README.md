@@ -16,7 +16,7 @@ They will be released at https://anonymous.4open.science/r/CPS3D-Det.
 <tr>
 <td>
 
-### Dual Subtitles
+### Collection system
 ---
 markdown
 ![Demo](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view?usp=drive_link)
