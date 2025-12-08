@@ -10,7 +10,7 @@ AIFAD transforms sparse convolutions into dense features to enhance the sparse b
 Through comprehensive evaluations, we demonstrate the relevance and effectiveness of our dataset and benchmark.
 They will be released at https://anonymous.4open.science/r/CPS3D-Det.
 
-## 🎥 Demo
+# 🎥 Demo
 
 ### Collection system
 Click [here](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view?usp=drive_link) to view the demo video.
