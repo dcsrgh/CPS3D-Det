@@ -20,6 +20,10 @@ They will be released at https://anonymous.4open.science/r/CPS3D-Det.
 ---
 ![Click here to view the demo video](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view)
 
+### Complete multi-view videos
+---
+![Click here](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view)
+
 </td>
 </tr>
 </table>
