@@ -12,19 +12,11 @@ They will be released at https://anonymous.4open.science/r/CPS3D-Det.
 
 ## 🎥 Demo
 
-<table>
-<tr>
-<td>
-
 ### Collection system
-![Click here to view the demo video](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view)
-
-</td>
-</tr>
-</table>
+Click ![here](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view?usp=drive_link) to download the demo video.
 
 ### Complete multi-view videos
-![Click here to download](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view)
+Click ![here](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view?usp=drive_link) to download complete multi-view videos.
 
 # Data Preparation
 1. Download the CPS3D-Det dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the confidentiality of our data, we currently only provide the training set, and the complete data will be updated after the paper is accepted. The data to be downloaded includes:
