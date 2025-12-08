@@ -18,7 +18,7 @@ They will be released at https://anonymous.4open.science/r/CPS3D-Det.
 
 ### Collection system
 ---
-[](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view?usp=sharing)
+[点击此处查看演示视频](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/view)
 
 </td>
 </tr>
