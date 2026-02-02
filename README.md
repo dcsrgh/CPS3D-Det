@@ -8,7 +8,7 @@ With 1640 high spatial resolution point cloud samples (0.0025 mm) and hundreds o
 In addition, we propose a benchmark AIFAD, an end-to-end point cloud defect detection method based on auxiliary information flows.
 AIFAD transforms sparse convolutions into dense features to enhance the sparse backbone and does not rely on handcrafted proxies.
 Through comprehensive evaluations, we demonstrate the relevance and effectiveness of our dataset and benchmark.
-They will be released at https://anonymous.4open.science/r/CPS3D-Det.
+They will be released at https://github.com/dcsrgh/CPS3D-Det.
 
 # 🎥 Demo
 
