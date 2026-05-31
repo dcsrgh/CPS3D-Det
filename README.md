@@ -57,6 +57,7 @@ bash scripts/dist_train.sh NUM_GPUS --cfg_file PATH_TO_CONFIG_FILE
 bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 ```
 
+# CPS3D-Det Dataset Description
 ### Illustration of the acquisition process of CPS3D-Det.
 <p align="center"> <img src="docs/equipment.png" width="100%"> </p>
 
@@ -73,6 +74,7 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 <p align="center"> <img src="docs/table1.PNG" width="100%"> </p>
 
 
+# Methodology
 ### Illustration of the proposed AIFAD.
 <p align="center"> <img src="docs/framework.png" width="100%"> </p>
 
