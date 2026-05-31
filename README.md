@@ -83,5 +83,8 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 <p align="center"> <img src="docs/table2.PNG" width="100%"> </p>
 
 
-# Acknowledgements
+## License
+The dataset is released under the CC BY 4.0 license. All data collection processes are authorized by the relevant companies.
+
+## Acknowledgements
 We thank these great works and open-source repositories: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) and [CenterPoint](https://github.com/tianweiy/CenterPoint).
