@@ -18,7 +18,7 @@ Click [here](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/v
 ### Complete multi-view videos
 Click [here](https://drive.google.com/file/d/12GM22SEenJaXJQUqbgS77yfLYiAzT9yL/view?usp=drive_link) to download the complete multi-view videos.
 
-# Data Preparation
+## Data Preparation
 1. Download the CPS3D-Det dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the confidentiality of our data, we currently only provide the training set, and the complete data will be updated after the paper is accepted. The data to be downloaded includes:
     * ImageSets (Complete).
     * labels (Complete).
@@ -57,7 +57,7 @@ bash scripts/dist_train.sh NUM_GPUS --cfg_file PATH_TO_CONFIG_FILE
 bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 ```
 
-# CPS3D-Det Dataset Description
+## CPS3D-Det Dataset Description
 ### Illustration of the acquisition process of CPS3D-Det.
 <p align="center"> <img src="docs/equipment.png" width="100%"> </p>
 
@@ -74,7 +74,7 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 <p align="center"> <img src="docs/table1.PNG" width="100%"> </p>
 
 
-# Methodology
+## Methodology
 ### Illustration of the proposed AIFAD.
 <p align="center"> <img src="docs/framework.png" width="100%"> </p>
 
