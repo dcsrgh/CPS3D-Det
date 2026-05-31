@@ -83,5 +83,5 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 <p align="center"> <img src="docs/table2.PNG" width="100%"> </p>
 
 
-### Acknowledgements
+# Acknowledgements
 We thank these great works and open-source repositories: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) and [CenterPoint](https://github.com/tianweiy/CenterPoint).
