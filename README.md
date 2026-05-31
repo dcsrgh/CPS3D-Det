@@ -57,10 +57,6 @@ bash scripts/dist_train.sh NUM_GPUS --cfg_file PATH_TO_CONFIG_FILE
 bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 ```
 
-### Examples of the proposed CPS3D-Det dataset.
-<p align="center"> <img src="docs/datasets.png" width="100%"> </p>
-
-
 ### Illustration of the acquisition process of CPS3D-Det.
 <p align="center"> <img src="docs/equipment.png" width="100%"> </p>
 
@@ -73,14 +69,6 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 <p align="center"> <img src="docs/samples.png" width="50%"> </p>
 
 
-### The proportion statistics of the number of defective points in different datasets.
-<p align="center"> <img src="docs/ratio.png" width="50%"> </p>
-
-
-### The distribution statistics of the aspect ratio of the objects in the CPS3D-Det and KITTI datasets.
-<p align="center"> <img src="docs/ratio2.png" width="50%"> </p>
-
-
 ### Comparison between the proposed CPS3D-Det and existing mainstream 3D industrial datasets.
 <p align="center"> <img src="docs/table1.PNG" width="100%"> </p>
 
@@ -89,24 +77,8 @@ bash scripts/dist_train.sh 8 --cfg_file PATH_TO_CONFIG_FILE
 <p align="center"> <img src="docs/framework.png" width="100%"> </p>
 
 
-### Illustration of the heatmap-aware regression.
-<p align="center"> <img src="docs/heatMap.png" width="50%"> </p>
-
-
 ### Performance of AIFAD and the state-of-the-art methods on the CPS3D-Det validation set.
 <p align="center"> <img src="docs/table2.PNG" width="100%"> </p>
-
-
-### Effects of auxiliary voxel information flows.
-<p align="center"> <img src="docs/table3.PNG" width="50%"> </p>
-
-
-### Effects of heatmap-aware regression and anchor-based strategy.
-<p align="center"> <img src="docs/table4.PNG" width="50%"> </p>
-
-
-### Qualitative illustration of the predicted boxes of AIFAD and the state-of-the-art methods on the CPS3D-Det validation set.
-<p align="center"> <img src="docs/multiModel.png" width="100%"> </p>
 
 
 ### Acknowledgements
