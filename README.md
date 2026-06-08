@@ -19,7 +19,7 @@ Click [here](https://drive.google.com/file/d/1u1GZ6YtOfqfCjhWronQQmnVCX8CGDgv5/v
 Click [here](https://drive.google.com/file/d/12GM22SEenJaXJQUqbgS77yfLYiAzT9yL/view?usp=drive_link) to download the complete multi-view videos.
 
 ## Data Preparation
-1. Download the CPS3D-Det dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the confidentiality of our data, we currently only provide the training set, and the complete data will be updated after the paper is accepted. The data to be downloaded includes:
+1. Download the CPS3D-Det dataset from [here](https://drive.google.com/file/d/1ZAlyT4Zcr1ZDA-y0_qQoLvgYQnFD2_qN/view?usp=drive_link). Note: For the confidentiality of our data[123](https://drive.google.com/file/d/10N_nMPx7KmPT3P2cbwWaZ-4w0EBK2o8a/view?usp=drive_link), we currently only provide the training set, and the complete data will be updated after the paper is accepted. The data to be downloaded includes:
     * ImageSets (Complete).
     * labels (Complete).
     * points (training set, geometric sampling).
