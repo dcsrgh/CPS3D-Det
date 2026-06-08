@@ -88,3 +88,19 @@ The dataset is released under the CC BY 4.0 license. All data collection process
 
 ## Acknowledgements
 We thank these great works and open-source repositories: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet), [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) and [CenterPoint](https://github.com/tianweiy/CenterPoint).
+
+## Citation 
+If you find this project useful in your research, please consider cite:
+
+
+```
+@ARTICLE{11361169,
+  author={Yu, Ruiyun and Zhao, Ziming and Zhen, Shi},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Auxiliary Information Flow for 3D Industrial Defect Detection on IC Ceramic Package Substrate Surfaces: Dataset and Benchmark}, 
+  year={2026},
+  volume={36},
+  number={6},
+  pages={7444-7456},
+}
+```
